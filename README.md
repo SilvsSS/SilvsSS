@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SilvsSS
 - 👀 I’m interested in Tecnology
-- 🌱 I’m currently learning Data Analysis
+- 🌱 I’m currently learning Development
 - 💞️ I’m looking to collaborate with the world
 - 📫 Brazil - SC
